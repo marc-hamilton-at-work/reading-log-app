@@ -9,4 +9,4 @@ import * as path from 'path';
 appServer.setStatic(path.join(__dirname, 'ui'));
 appServer.setDefault(path.join(__dirname, 'ui', 'index.html'));
 
-appServer.start(3000);
+appServer.start(parseInt(process.env.PORT) || 3000);
