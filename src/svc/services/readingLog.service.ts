@@ -12,7 +12,7 @@ import { ReadingLogRepository } from '../repos';
 export class ReadingLogService {
     constructor(
         private readonly readingLogRepo: ReadingLogRepository = new ReadingLogRepository()
-    ) {}
+    ) { }
 
     public getReadingLogs(): ReadingLog[] {
         return this.readingLogRepo.findAll();
@@ -20,5 +20,9 @@ export class ReadingLogService {
 
     public getReadingLog(id: number): ReadingLog {
         return this.readingLogRepo.findOne(id);
+    }
+
+    public saveReadingEntries(id: number, entries: ReadingEntry[]) {
+        this.readingLogRepo.saveEntries(id, entries);
     }
 }

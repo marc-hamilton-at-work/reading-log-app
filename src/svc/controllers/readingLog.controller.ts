@@ -27,6 +27,7 @@ export class ReadingLogController {
     private setupRoutes() {
         this.router.get('/', (req: Request, res: Response) => this.getReadingLogs(req, res));
         this.router.get('/:id', (req: Request, res: Response) => this.getReadingLog(req, res));
+        this.router.post('/:id', (req: Request, res: Response) => this.saveReaderLog(req, res));
     }
 
     /**
@@ -44,8 +45,14 @@ export class ReadingLogController {
     private getReadingLog(req: Request, res: Response) {
         const id = req.params.id;
         const readingLog: ReadingLog = this.readingLogSvc.getReadingLog(id);
-
+        console.log(readingLog);
         return res.json(readingLog);
+    }
+
+    private saveReaderLog(req: Request, res: Response) {
+        const id = req.params.id;
+        this.readingLogSvc.saveReadingEntries(id, req.body);
+        return res.json({});
     }
 
     public getRouter(): Router {

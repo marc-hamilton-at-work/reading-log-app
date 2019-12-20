@@ -32,6 +32,12 @@ export class ReadingLogRepository {
         });
     }
 
+    public saveEntries(id: number, entries: ReadingEntry[]) {
+        var one = _.find(this.readingLogDb, (log: ReadingLog) => log.id == id);
+        one.entries.push(...entries);
+
+    }
+
     public findAll(): ReadingLog[] {
         return this.readingLogDb;
     }

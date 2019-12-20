@@ -1,5 +1,9 @@
 [
   {
+    "id": 99,
+    "entries": []
+  },
+  {
     "id": 1,
     "owner": {
       "id": 5,
@@ -8,7 +12,11 @@
       "email": "cstiddard0@odnoklassniki.ru"
     },
     "classEnrollmentId": 7,
-    "group": { "id": 1, "gradeLevel": "2", "title": "Grade 2" },
+    "group": {
+      "id": 1,
+      "gradeLevel": "2",
+      "title": "Grade 2"
+    },
     "description": "vestibulum eget",
     "entries": [
       {
@@ -88,7 +96,11 @@
       "email": "afenimore1@theguardian.com"
     },
     "classEnrollmentId": 1,
-    "group": { "id": 3, "gradeLevel": "6", "title": "Grade 6" },
+    "group": {
+      "id": 3,
+      "gradeLevel": "6",
+      "title": "Grade 6"
+    },
     "description": "vel dapibus at diam",
     "entries": [
       {
@@ -168,7 +180,11 @@
       "email": "mbowater2@wordpress.org"
     },
     "classEnrollmentId": 6,
-    "group": { "id": 1, "gradeLevel": "3", "title": "Grade 3" },
+    "group": {
+      "id": 1,
+      "gradeLevel": "3",
+      "title": "Grade 3"
+    },
     "description": "justo maecenas",
     "entries": [
       {
@@ -248,7 +264,11 @@
       "email": "mtossell3@sbwire.com"
     },
     "classEnrollmentId": 4,
-    "group": { "id": 5, "gradeLevel": "4", "title": "Grade 4" },
+    "group": {
+      "id": 5,
+      "gradeLevel": "4",
+      "title": "Grade 4"
+    },
     "description": "nec condimentum neque sapien",
     "entries": [
       {
@@ -296,7 +316,11 @@
       "email": "vmeharg4@blogs.com"
     },
     "classEnrollmentId": 5,
-    "group": { "id": 6, "gradeLevel": "5", "title": "Grade 5" },
+    "group": {
+      "id": 6,
+      "gradeLevel": "5",
+      "title": "Grade 5"
+    },
     "description": "quis orci",
     "entries": [
       {
@@ -360,7 +384,11 @@
       "email": "sbergeon5@wordpress.org"
     },
     "classEnrollmentId": 5,
-    "group": { "id": 6, "gradeLevel": "2", "title": "Grade 2" },
+    "group": {
+      "id": 6,
+      "gradeLevel": "2",
+      "title": "Grade 2"
+    },
     "description": "risus semper",
     "entries": [
       {
@@ -416,7 +444,11 @@
       "email": "jbaudrey6@myspace.com"
     },
     "classEnrollmentId": 4,
-    "group": { "id": 3, "gradeLevel": "5", "title": "Grade 5" },
+    "group": {
+      "id": 3,
+      "gradeLevel": "5",
+      "title": "Grade 5"
+    },
     "description": "at turpis donec posuere",
     "entries": [
       {
@@ -488,7 +520,11 @@
       "email": "rpessler7@hibu.com"
     },
     "classEnrollmentId": 4,
-    "group": { "id": 4, "gradeLevel": "6", "title": "Grade 6" },
+    "group": {
+      "id": 4,
+      "gradeLevel": "6",
+      "title": "Grade 6"
+    },
     "description": "duis ac",
     "entries": [
       {
@@ -560,7 +596,11 @@
       "email": "bcannell8@ed.gov"
     },
     "classEnrollmentId": 6,
-    "group": { "id": 1, "gradeLevel": "0", "title": "Grade 0" },
+    "group": {
+      "id": 1,
+      "gradeLevel": "0",
+      "title": "Grade 0"
+    },
     "description": "orci eget orci vehicula",
     "entries": [
       {
@@ -624,7 +664,11 @@
       "email": "bfigures9@merriam-webster.com"
     },
     "classEnrollmentId": 7,
-    "group": { "id": 4, "gradeLevel": "3", "title": "Grade 3" },
+    "group": {
+      "id": 4,
+      "gradeLevel": "3",
+      "title": "Grade 3"
+    },
     "description": "erat volutpat in",
     "entries": [
       {
