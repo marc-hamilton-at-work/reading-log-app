@@ -1,0 +1,658 @@
+[
+  {
+    "id": 1,
+    "owner": {
+      "id": 5,
+      "firstName": "Claudianus",
+      "lastName": "Stiddard",
+      "email": "cstiddard0@odnoklassniki.ru"
+    },
+    "classEnrollmentId": 7,
+    "group": { "id": 1, "gradeLevel": "2", "title": "Grade 2" },
+    "description": "vestibulum eget",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 30,
+        "notes": "",
+        "readingDate": "2018-11-06",
+        "publicationTitle": "Claustrofobia",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-11-29",
+        "publicationTitle": "Journey to the Center of the Earth",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-12-07",
+        "publicationTitle": "Paulie",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-12-01",
+        "publicationTitle": "Hitch Hikers Guide to the Galaxy, The",
+        "supervisorVerification": true
+      },
+      {
+        "id": 5,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-12-03",
+        "publicationTitle": "Friends of God: A Road Trip with Alexandra Pelosi",
+        "supervisorVerification": true
+      },
+      {
+        "id": 6,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-11-20",
+        "publicationTitle": "Charlie Chan at the Olympics",
+        "supervisorVerification": false
+      },
+      {
+        "id": 7,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-11-01",
+        "publicationTitle": "The Little Prince",
+        "supervisorVerification": false
+      },
+      {
+        "id": 8,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-12-01",
+        "publicationTitle": "Rock 'N' Roll High School",
+        "supervisorVerification": true
+      }
+    ],
+    "createdAt": "2018-10-09T14:23:27Z",
+    "updatedAt": "2018-11-25T08:13:03Z"
+  },
+  {
+    "id": 2,
+    "owner": {
+      "id": 2,
+      "firstName": "Ainslee",
+      "lastName": "Fenimore",
+      "email": "afenimore1@theguardian.com"
+    },
+    "classEnrollmentId": 1,
+    "group": { "id": 3, "gradeLevel": "6", "title": "Grade 6" },
+    "description": "vel dapibus at diam",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-11-24",
+        "publicationTitle": "Mummy Returns, The",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-11-02",
+        "publicationTitle": "Three Kings",
+        "supervisorVerification": false
+      },
+      {
+        "id": 3,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-08",
+        "publicationTitle": "Tinseltown",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-11-26",
+        "publicationTitle": "Go West",
+        "supervisorVerification": true
+      },
+      {
+        "id": 5,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-11-14",
+        "publicationTitle": "Riviera",
+        "supervisorVerification": true
+      },
+      {
+        "id": 6,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-10-12",
+        "publicationTitle": "Wild Blue Yonder, The",
+        "supervisorVerification": true
+      },
+      {
+        "id": 7,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-12-04",
+        "publicationTitle": "Dirty Dingus Magee",
+        "supervisorVerification": false
+      },
+      {
+        "id": 8,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-11-17",
+        "publicationTitle": "Claire's Knee (Genou de Claire, Le)",
+        "supervisorVerification": false
+      }
+    ],
+    "createdAt": "2018-11-03T00:21:21Z",
+    "updatedAt": "2018-11-27T13:25:46Z"
+  },
+  {
+    "id": 3,
+    "owner": {
+      "id": 4,
+      "firstName": "Melody",
+      "lastName": "Bowater",
+      "email": "mbowater2@wordpress.org"
+    },
+    "classEnrollmentId": 6,
+    "group": { "id": 1, "gradeLevel": "3", "title": "Grade 3" },
+    "description": "justo maecenas",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-29",
+        "publicationTitle": "I Bought a Vampire Motorcycle",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-10-24",
+        "publicationTitle": "Egyptian, The",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 30,
+        "notes": "",
+        "readingDate": "2018-12-03",
+        "publicationTitle": "Only Son, The (Hitori musuko)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-11-30",
+        "publicationTitle": "Blind",
+        "supervisorVerification": true
+      },
+      {
+        "id": 5,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-10-16",
+        "publicationTitle": "Signs of Life (Lebenszeichen)",
+        "supervisorVerification": false
+      },
+      {
+        "id": 6,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-10-28",
+        "publicationTitle": "Texas Chainsaw Massacre 2, The",
+        "supervisorVerification": true
+      },
+      {
+        "id": 7,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-11-13",
+        "publicationTitle": "Suspect X (Yôgisha X no kenshin)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 8,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-12-03",
+        "publicationTitle": "Insomnia",
+        "supervisorVerification": false
+      }
+    ],
+    "createdAt": "2018-10-29T12:07:07Z",
+    "updatedAt": "2018-12-01T01:52:35Z"
+  },
+  {
+    "id": 4,
+    "owner": {
+      "id": 5,
+      "firstName": "Marcel",
+      "lastName": "Tossell",
+      "email": "mtossell3@sbwire.com"
+    },
+    "classEnrollmentId": 4,
+    "group": { "id": 5, "gradeLevel": "4", "title": "Grade 4" },
+    "description": "nec condimentum neque sapien",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-12-05",
+        "publicationTitle": "Rhinoceros",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-13",
+        "publicationTitle": "Rumor Has It...",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-11-20",
+        "publicationTitle": "Dentist, The",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-10-19",
+        "publicationTitle": "Deliver Us From Evil",
+        "supervisorVerification": false
+      }
+    ],
+    "createdAt": "2018-10-10T16:04:25Z",
+    "updatedAt": "2018-12-03T22:08:29Z"
+  },
+  {
+    "id": 5,
+    "owner": {
+      "id": 1,
+      "firstName": "Vitoria",
+      "lastName": "Meharg",
+      "email": "vmeharg4@blogs.com"
+    },
+    "classEnrollmentId": 5,
+    "group": { "id": 6, "gradeLevel": "5", "title": "Grade 5" },
+    "description": "quis orci",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-12-07",
+        "publicationTitle": "Teenage Caveman",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-10-16",
+        "publicationTitle": "Happy Birthday to a Beautiful Woman",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-11-30",
+        "publicationTitle": "Mr. Hobbs Takes a Vacation",
+        "supervisorVerification": false
+      },
+      {
+        "id": 4,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-10-30",
+        "publicationTitle": "Jitney Elopement, A",
+        "supervisorVerification": true
+      },
+      {
+        "id": 5,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-10-23",
+        "publicationTitle": "Wasteland",
+        "supervisorVerification": false
+      },
+      {
+        "id": 6,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-10-16",
+        "publicationTitle": "Shock",
+        "supervisorVerification": true
+      }
+    ],
+    "createdAt": "2018-10-30T12:04:05Z",
+    "updatedAt": "2018-11-13T12:01:14Z"
+  },
+  {
+    "id": 6,
+    "owner": {
+      "id": 2,
+      "firstName": "Sawyer",
+      "lastName": "Bergeon",
+      "email": "sbergeon5@wordpress.org"
+    },
+    "classEnrollmentId": 5,
+    "group": { "id": 6, "gradeLevel": "2", "title": "Grade 2" },
+    "description": "risus semper",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-11-14",
+        "publicationTitle": "Clockwatchers",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-12-04",
+        "publicationTitle": "Seas Beneath",
+        "supervisorVerification": false
+      },
+      {
+        "id": 3,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-12-06",
+        "publicationTitle": "Bis zum Ellenbogen",
+        "supervisorVerification": false
+      },
+      {
+        "id": 4,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-10-23",
+        "publicationTitle": "Continental Divide",
+        "supervisorVerification": false
+      },
+      {
+        "id": 5,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-11-21",
+        "publicationTitle": "Carriers",
+        "supervisorVerification": false
+      }
+    ],
+    "createdAt": "2018-10-29T10:46:17Z",
+    "updatedAt": "2018-11-15T17:45:13Z"
+  },
+  {
+    "id": 7,
+    "owner": {
+      "id": 4,
+      "firstName": "Johnna",
+      "lastName": "Baudrey",
+      "email": "jbaudrey6@myspace.com"
+    },
+    "classEnrollmentId": 4,
+    "group": { "id": 3, "gradeLevel": "5", "title": "Grade 5" },
+    "description": "at turpis donec posuere",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-17",
+        "publicationTitle": "Home of Our Own, A",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-11-16",
+        "publicationTitle": "Hoffman",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-10-24",
+        "publicationTitle": "End of St. Petersburg, The (Konets Sankt-Peterburga)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-11-03",
+        "publicationTitle": "In a Glass Cage (Tras el cristal)",
+        "supervisorVerification": false
+      },
+      {
+        "id": 5,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-10-29",
+        "publicationTitle": "Littlerock",
+        "supervisorVerification": true
+      },
+      {
+        "id": 6,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-10",
+        "publicationTitle": "Slacker 2011",
+        "supervisorVerification": true
+      },
+      {
+        "id": 7,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-11-09",
+        "publicationTitle": "If a Tree Falls: A Story of the Earth Liberation Front",
+        "supervisorVerification": true
+      }
+    ],
+    "createdAt": "2018-10-24T00:34:01Z",
+    "updatedAt": "2018-12-05T11:22:06Z"
+  },
+  {
+    "id": 8,
+    "owner": {
+      "id": 5,
+      "firstName": "Randolph",
+      "lastName": "Pessler",
+      "email": "rpessler7@hibu.com"
+    },
+    "classEnrollmentId": 4,
+    "group": { "id": 4, "gradeLevel": "6", "title": "Grade 6" },
+    "description": "duis ac",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-14",
+        "publicationTitle": "Diverted",
+        "supervisorVerification": true
+      },
+      {
+        "id": 2,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-11-24",
+        "publicationTitle": "Dames du Bois de Boulogne, Les (Ladies of the Bois de Boulogne, The) (Ladies of the Park)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 25,
+        "notes": "",
+        "readingDate": "2018-10-13",
+        "publicationTitle": "Return of Martin Guerre, The (Retour de Martin Guerre, Le)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-11-22",
+        "publicationTitle": "My Science Project",
+        "supervisorVerification": false
+      },
+      {
+        "id": 5,
+        "duration": 15,
+        "notes": "",
+        "readingDate": "2018-11-25",
+        "publicationTitle": "You Light Up My Life",
+        "supervisorVerification": true
+      },
+      {
+        "id": 6,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-10-14",
+        "publicationTitle": "Jesus of Nazareth",
+        "supervisorVerification": true
+      },
+      {
+        "id": 7,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-11-24",
+        "publicationTitle": "Godzilla, Mothra, and King Ghidorah: Giant Monsters All-Out Attack (Gojira, Mosura, Kingu Gidorâ: Daikaijû sôkôgeki) (Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack)",
+        "supervisorVerification": true
+      }
+    ],
+    "createdAt": "2018-11-02T16:44:41Z",
+    "updatedAt": "2018-12-04T22:05:18Z"
+  },
+  {
+    "id": 9,
+    "owner": {
+      "id": 4,
+      "firstName": "Byrle",
+      "lastName": "Cannell",
+      "email": "bcannell8@ed.gov"
+    },
+    "classEnrollmentId": 6,
+    "group": { "id": 1, "gradeLevel": "0", "title": "Grade 0" },
+    "description": "orci eget orci vehicula",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-12-06",
+        "publicationTitle": "Mystery of the Third Planet, The (Tayna tretey planety)",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-11-29",
+        "publicationTitle": "Trench Road (Juoksuhaudantie)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 30,
+        "notes": "",
+        "readingDate": "2018-10-30",
+        "publicationTitle": "Stranded",
+        "supervisorVerification": true
+      },
+      {
+        "id": 4,
+        "duration": 35,
+        "notes": "",
+        "readingDate": "2018-10-15",
+        "publicationTitle": "Blue Angel, The",
+        "supervisorVerification": false
+      },
+      {
+        "id": 5,
+        "duration": 20,
+        "notes": "",
+        "readingDate": "2018-11-30",
+        "publicationTitle": "Signs of Life (Lebenszeichen)",
+        "supervisorVerification": true
+      },
+      {
+        "id": 6,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-12-02",
+        "publicationTitle": "Forgiving Dr. Mengele",
+        "supervisorVerification": true
+      }
+    ],
+    "createdAt": "2018-10-24T02:05:10Z",
+    "updatedAt": "2018-11-14T00:16:14Z"
+  },
+  {
+    "id": 10,
+    "owner": {
+      "id": 4,
+      "firstName": "Beaufort",
+      "lastName": "Figures",
+      "email": "bfigures9@merriam-webster.com"
+    },
+    "classEnrollmentId": 7,
+    "group": { "id": 4, "gradeLevel": "3", "title": "Grade 3" },
+    "description": "erat volutpat in",
+    "entries": [
+      {
+        "id": 1,
+        "duration": 10,
+        "notes": "",
+        "readingDate": "2018-11-11",
+        "publicationTitle": "Bad Taste",
+        "supervisorVerification": false
+      },
+      {
+        "id": 2,
+        "duration": 40,
+        "notes": "",
+        "readingDate": "2018-12-03",
+        "publicationTitle": "Foon",
+        "supervisorVerification": true
+      },
+      {
+        "id": 3,
+        "duration": 30,
+        "notes": "",
+        "readingDate": "2018-11-14",
+        "publicationTitle": "Candidate, The (Kandidaten)",
+        "supervisorVerification": true
+      }
+    ],
+    "createdAt": "2018-10-21T18:42:40Z",
+    "updatedAt": "2018-12-05T16:45:33Z"
+  }
+]

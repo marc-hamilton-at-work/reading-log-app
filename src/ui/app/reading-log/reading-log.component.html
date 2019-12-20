@@ -1,0 +1,33 @@
+<h2>Reading Log</h2>
+<p>Your reading log</p>
+
+<p>
+    Id : {{ readingLog.id }}<br>
+    Description: {{ readingLog.description }}
+</p>
+
+<div class='table-responsive'>
+    <table class='table table-striped'
+            *ngIf='readingLog.entries && readingLog.entries.length'>
+        <thead>
+            <tr>
+                <th></th>
+                <th>Date</th>
+                <th>Book Title</th>
+                <th>Minutes Read</th>
+                <th>Parent Authorization</th>
+<!--            <th>Notes</th>   -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor='let entry of readingLog.entries'>
+                <td></td>
+                <td>{{ entry.readingDate | date: "MM/dd/yyyy" }}</td>
+                <td>{{ entry.publicationTitle }}</td>
+                <td>{{ entry.duration }}</td>
+                <td>{{ entry.supervisorVerification }}</td>
+<!--            <td>{{ entry.notes }}</td>   -->
+            </tr>
+        </tbody>
+    </table>
+</div>
