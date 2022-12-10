@@ -76,7 +76,7 @@
     "@ng-bootstrap/ng-bootstrap": "^4.0.1",
     "bootstrap": "^4.2.1",
     "core-js": "^2.5.4",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "inversify": "^5.0.1",
     "lodash": "^4.17.11",
     "reflect-metadata": "^0.1.12",
